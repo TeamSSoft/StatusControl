@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="Catalog.tss_sc_ЗначенияСтатусов" id="ac8a8db2-7287-4006-84f3-76fb1cbc3054" configVersion="886f11978a3de14db40c316f051f87fe00000000"/>
+		<Metadata name="Catalog.tss_sc_ЗначенияСтатусов.Form.ФормаСписка" id="6a3b352c-0651-452d-9adb-f2dcfe39db4a" configVersion="2ea24295e29bdf41a3f386fea4b8b98800000000"/>
+		<Metadata name="Catalog.tss_sc_ЗначенияСтатусов.Form.ФормаСписка.Form" id="6a3b352c-0651-452d-9adb-f2dcfe39db4a.0" configVersion="bb4ad11399a1de4a816a8338f93976f500000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов" id="44071ce3-9402-4746-8591-53864c72a3ff" configVersion="fc47f5e02ec79046b75f6e865a43bc8900000000">
+			<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов.TabularSection.ТипыВладельцев.Attribute.ТипВладельца" id="a2cc7316-1306-4913-9f5f-d50fd1c73205"/>
+			<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов.TabularSection.ТипыВладельцев" id="de3fa068-ae99-4539-8285-51736718cbd0"/>
+		</Metadata>
+		<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов.Form.ФормаСписка" id="4685baa0-ee28-4ee1-b216-caa1e4f27866" configVersion="b6bd89200e9d6f44a14bbfe1b155b4a700000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов.Form.ФормаСписка.Form" id="4685baa0-ee28-4ee1-b216-caa1e4f27866.0" configVersion="be87ca209e7e8248ae13b6f9526acebd00000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов.Form.ФормаЭлемента" id="054ec0ad-8197-4184-8c14-63d0a0814370" configVersion="e28e9cf1f70e6d438338c8b72f501a4f00000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.tss_sc_ВидыСтатусов.Form.ФормаЭлемента.Form" id="054ec0ad-8197-4184-8c14-63d0a0814370.0" configVersion="04be906758b8eb44a22ff361afa843c700000000"/>
+		<Metadata name="CommonModule.tss_sc_УправлениеСтатусами" id="a0412d8e-8435-40f4-8423-1967ce58e7e2" configVersion="ef3b03c96c86a94f9e7661e02057ac9c00000000"/>
+		<Metadata name="CommonModule.tss_sc_УправлениеСтатусами.Module" id="a0412d8e-8435-40f4-8423-1967ce58e7e2.0" configVersion="8c2e2cd497121842ac1a1e9ad07a65ba00000000"/>
+		<Metadata name="CommonModule.tss_sc_УправлениеСтатусамиПереопределяемый" id="fce33488-1d3f-4bef-b8d9-220f1db7ec80" configVersion="1c4c7edaba5cd2478d712abfe034e3e700000000"/>
+		<Metadata name="Configuration.ОткрытыеПодсистемы" id="b54bfdf7-419d-4b70-aa58-11f6e367965b" configVersion="c0a43c8c24fb62498e7ca8c216b4d18b00000000"/>
+		<Metadata name="DefinedType.tss_sc_ВладелецСтатуса" id="88224305-c50a-48f2-bc6e-c5f1cbd3db20" configVersion="9f8b866c237e8043b85ae137dcb9c7f400000000"/>
+		<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов" id="481861ef-3760-4d0f-8b9d-ab00dfeee13b" configVersion="13b0da96be5d1f4c8e4d6e245c52e7f600000000">
+			<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов.Dimension.ВидСтатуса" id="019e602c-c915-43a6-8063-f1047492645e"/>
+			<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов.Resource.Значение" id="176648c2-72a7-4981-9442-8d4678fc281b"/>
+			<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов.Dimension.ВладелецСтатуса" id="f8512e92-89a7-4c68-936a-6a79c0a86dd9"/>
+		</Metadata>
+		<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов.Form.ФормаУстановкиСтатусов" id="2fffd93b-d798-41f8-bb12-694e61ae3925" configVersion="82c27a702be6c543917d2996667185a400000000"/>
+		<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов.Form.ФормаУстановкиСтатусов.Form" id="2fffd93b-d798-41f8-bb12-694e61ae3925.0" configVersion="db69b0922349564d9ce2ec49c38a639a00000000"/>
+		<Metadata name="InformationRegister.tss_sc_СтатусыОбъектов.ManagerModule" id="481861ef-3760-4d0f-8b9d-ab00dfeee13b.2" configVersion="c029e30bf2a6ab4a93df8f84a68967a700000000"/>
+		<Metadata name="Language.Русский" id="7f967ab7-108b-4e85-ab81-1cea787dfd37" configVersion="4add2e4fe990384ea136323f80851a2900000000"/>
+		<Metadata name="Role.tss_sc_ДобавлениеИзменениеСтатусов" id="f3493c9b-439a-4f43-ad17-bc89d3de87d1" configVersion="0889775bb4293f41b2328b4dd610adb200000000"/>
+		<Metadata name="Role.tss_sc_ДобавлениеИзменениеСтатусов.Rights" id="f3493c9b-439a-4f43-ad17-bc89d3de87d1.0" configVersion="d6c1d96c6f93dd42973fa6a9252a3b0100000000"/>
+		<Metadata name="Role.tss_sc_ИзменениеСтатусов" id="af984093-5758-4d9c-8dbe-9de251dce487" configVersion="bafbeea11d49df4b96d13474a60782ef00000000"/>
+		<Metadata name="Role.tss_sc_ИзменениеСтатусов.Rights" id="af984093-5758-4d9c-8dbe-9de251dce487.0" configVersion="d4062ee300dddc4bb8955e02e087cd0e00000000"/>
+		<Metadata name="Role.tss_sc_ЧтениеСтатусов" id="da47e559-0521-4895-bb08-b440846820c4" configVersion="f163861a2950764a8c0e79340add2be400000000"/>
+		<Metadata name="Role.tss_sc_ЧтениеСтатусов.Rights" id="da47e559-0521-4895-bb08-b440846820c4.0" configVersion="a2d4112b6a50fa46b6034bae03b1a4cf00000000"/>
+		<Metadata name="Subsystem.tss_sc_УправлениеСтатусами" id="78d7b150-0ad9-433f-8c06-c51fd615033f" configVersion="dfd611915bddd54181c786524364e6cb00000000"/>
+		<Metadata name="Subsystem.tss_sc_УправлениеСтатусами.CommandInterface" id="78d7b150-0ad9-433f-8c06-c51fd615033f.1" configVersion="9519c6a4b6c1f1419cac26e61e859e2200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
